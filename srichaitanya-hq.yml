@@ -1,0 +1,11 @@
+fees:
+  tuition: "50000"
+  hostel: "10000"
+
+timing:
+  start: "9:00 AM"
+  end: "5:00 PM"
+
+circulars:
+  - "Annual Day on March 10"
+  - "Exams start from April 15"
